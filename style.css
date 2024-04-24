@@ -218,6 +218,7 @@ header .navbar ul li a:hover{
     color: rgb(5, 72, 227);
     transform: scale(0.8,0.8);
 }
+/*
 .home .share .fa-twitter:hover{
     background-color:gainsboro;
     color: rgb(9, 164, 241);
@@ -233,12 +234,11 @@ header .navbar ul li a:hover{
     color: darkblue;
     transform: scale(0.8,0.8);
 }
-.home .share .fa-download:hover{
+*/
+.home .share .fa-telegram:hover{
     background-color:gainsboro;
-    color: rgb(0, 102, 14);
-    transform: scale(0.8,0.8);
-    
-    
+    color: rgb(5, 72, 227);
+    transform: scale(0.8,0.8);   
 }
 .home .share .fa-github:hover{
     background-color:gainsboro;
